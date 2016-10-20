@@ -1,0 +1,17 @@
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Infra\bin\Debug\MacroControleFinanceiro.Infra.dll
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Infra\bin\Debug\MacroControleFinanceiro.Infra.pdb
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Infra\obj\Debug\MacroControleFinanceiro.Infra.dll
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Infra\obj\Debug\MacroControleFinanceiro.Infra.pdb
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Infra\bin\Debug\MacroControleFinanceiro.Infra.dll.config
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Infra\bin\Debug\EntityFramework.dll
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Infra\bin\Debug\MacroControleFinanceiro.Domain.dll
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Infra\bin\Debug\MacroControleFinanceiro.Resource.dll
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Infra\bin\Debug\MacroControleFinanceiro.Domain.pdb
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Infra\bin\Debug\EntityFramework.xml
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Infra\bin\Debug\MacroControleFinanceiro.Resource.pdb
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Infra\bin\Debug\pt-BR\MacroControleFinanceiro.Resource.resources.dll
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Infra\obj\Debug\MacroControleFinanceiro.Infra.csprojResolveAssemblyReference.cache
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Infra\obj\Debug\MacroControleFinanceiro.Infra.Migrations._1.resources
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Infra\obj\Debug\MacroControleFinanceiro.Infra.csproj.GenerateResource.Cache

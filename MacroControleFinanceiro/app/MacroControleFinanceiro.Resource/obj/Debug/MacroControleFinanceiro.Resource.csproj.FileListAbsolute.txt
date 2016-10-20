@@ -1,0 +1,11 @@
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Resource\bin\Debug\MacroControleFinanceiro.Resource.dll
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Resource\bin\Debug\MacroControleFinanceiro.Resource.pdb
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Resource\bin\Debug\pt-BR\MacroControleFinanceiro.Resource.resources.dll
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Resource\obj\Debug\MacroControleFinanceiro.Resource.Resources.Errors.resources
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Resource\obj\Debug\MacroControleFinanceiro.Resource.Resources.Messages.resources
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Resource\obj\Debug\MacroControleFinanceiro.Resource.Resources.Errors.pt-BR.resources
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Resource\obj\Debug\MacroControleFinanceiro.Resource.Resources.Messages.pt-BR.resources
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Resource\obj\Debug\MacroControleFinanceiro.Resource.csproj.GenerateResource.Cache
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Resource\obj\Debug\pt-BR\MacroControleFinanceiro.Resource.resources.dll
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Resource\obj\Debug\MacroControleFinanceiro.Resource.dll
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Resource\obj\Debug\MacroControleFinanceiro.Resource.pdb

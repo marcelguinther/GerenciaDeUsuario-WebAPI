@@ -1,0 +1,8 @@
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Domain\obj\Debug\MacroControleFinanceiro.Domain.csprojResolveAssemblyReference.cache
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Domain\bin\Debug\MacroControleFinanceiro.Domain.dll
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Domain\bin\Debug\MacroControleFinanceiro.Domain.pdb
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Domain\bin\Debug\MacroControleFinanceiro.Resource.dll
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Domain\bin\Debug\MacroControleFinanceiro.Resource.pdb
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Domain\bin\Debug\pt-BR\MacroControleFinanceiro.Resource.resources.dll
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Domain\obj\Debug\MacroControleFinanceiro.Domain.dll
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Domain\obj\Debug\MacroControleFinanceiro.Domain.pdb

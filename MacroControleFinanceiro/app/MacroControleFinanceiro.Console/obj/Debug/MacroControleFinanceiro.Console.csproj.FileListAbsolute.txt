@@ -1,0 +1,13 @@
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Console\bin\Debug\MacroControleFinanceiro.Console.exe.config
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Console\obj\Debug\MacroControleFinanceiro.Console.csprojResolveAssemblyReference.cache
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Console\bin\Debug\MacroControleFinanceiro.Console.exe
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Console\bin\Debug\MacroControleFinanceiro.Console.pdb
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Console\bin\Debug\MacroControleFinanceiro.Domain.dll
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Console\bin\Debug\MacroControleFinanceiro.Infra.dll
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Console\bin\Debug\MacroControleFinanceiro.Resource.dll
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Console\bin\Debug\MacroControleFinanceiro.Domain.pdb
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Console\bin\Debug\MacroControleFinanceiro.Infra.pdb
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Console\bin\Debug\MacroControleFinanceiro.Resource.pdb
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Console\bin\Debug\pt-BR\MacroControleFinanceiro.Resource.resources.dll
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Console\obj\Debug\MacroControleFinanceiro.Console.exe
+C:\Users\marce\Documents\ESTUDO\dotNet\MacroControleFinanceiro\MacroControleFinanceiro\app\MacroControleFinanceiro.Console\obj\Debug\MacroControleFinanceiro.Console.pdb
